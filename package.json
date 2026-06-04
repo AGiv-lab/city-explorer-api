@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/AGiv-lab/city-explorer-api/issues"
   },
   "homepage": "https://github.com/AGiv-lab/city-explorer-api#readme",
   "dependencies": {
+    "axios": "^1.17.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
